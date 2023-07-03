@@ -1,9 +1,10 @@
-Selamat datang di repository AI-dengan-DL!
+## Selamat datang di repository AI-dengan-DL!
 
-Repository ini merupakan media pelengkap dari buku:
+Repository ini merupakan media pelengkap dari buku :notebook_with_decorative_cover: :
+
 Judul : **Kecerdasan Buatan dengan Deep Learning**
 
-Penulis : **Dr.Eng. Said Mirza Pahlevi**
+Penulis : **Dr. Eng. Said Mirza Pahlevi**
 
 Penerbit : **Elex Media Komputindo**
 
