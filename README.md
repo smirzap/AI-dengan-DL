@@ -13,6 +13,10 @@ Penerbit : **Elex Media Komputindo**
 
 Tahun : **2023**
 
+Info buku : [lihat](https://elexmedia.id/produk/detail/komputer/dr-eng-said-mirza-pahlevi/kecerdasan-buatan-dengan-deep-learning/9786230049682)
+
+Daftar Errata : [lihat]()
+
 Repository ini berisikan file-file kode program dalam notebook pada Google Colab yang dijelaskan secara rinci pada buku.
 Dengan adanya notebook pada Google Colab ini diharapkan para pembaca dapat memperdalam secara mandiri terkait teknologi Deep Learning.
 
