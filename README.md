@@ -15,7 +15,7 @@ Tahun : **2023**
 
 :information_source:Info Buku : [lihat](https://elexmedia.id/produk/detail/komputer/dr-eng-said-mirza-pahlevi/kecerdasan-buatan-dengan-deep-learning/9786230049682)
 
-:memo:Daftar Errata : [lihat](https://github.com/smirzap/AI-dengan-DL/wiki/Errata)
+:memo:Daftar Errata : [lihat](https://github.com/smirzap/AI-dengan-DL/wiki/Daftar-Errata)
 
 Repository ini berisikan file-file kode program dalam notebook pada Google Colab yang dijelaskan secara rinci pada buku.
 Dengan adanya notebook pada Google Colab ini diharapkan para pembaca dapat memperdalam secara mandiri terkait teknologi Deep Learning.
